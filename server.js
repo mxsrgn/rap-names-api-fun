@@ -10,17 +10,17 @@ const rappers = {
         'age': 29,
         'birthName': 'Shéyaa Bin Abraham-Joseph',
         'birthLocation': 'London, England'
-},
-'chance the rapper':{
-    'age': 29,
-    'birthName': 'Chancelor Johnathan Bennett',
-    'birthLocation': 'Chicago, Illinois'
-},
-'dylan':{
-    'age': 29,
-    'birthName': 'Dylan',
-    'birthLocation': 'Dylan' 
-},
+    },
+    'chance the rapper':{
+        'age': 29,
+        'birthName': 'Chancelor Johnathan Bennett',
+        'birthLocation': 'Chicago, Illinois'
+    },
+    'dylan':{
+        'age': 29,
+        'birthName': 'Dylan',
+        'birthLocation': 'Dylan' 
+    },
 }
 
 
